@@ -6,6 +6,6 @@ int main()
   cout<<"Enter two numbers:"<< endl;
   cin>>a >> b;
   sum = a+b;
-  cout<<"Sum of two numbers is:"<<sum;
+  cout<<"Sum of two numbers is :"<<sum;
   return 0;
 }
