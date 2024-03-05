@@ -21,7 +21,7 @@ void sieve_of_eratosthenes(int n) {
 
 int main() {
 	int n;
-	cout << "Enter a number: ";
+	cout << "Enter a number :";
 	cin >> n;
 	cout << "Prime numbers up to " << n << " are: ";
 	sieve_of_eratosthenes(n);
